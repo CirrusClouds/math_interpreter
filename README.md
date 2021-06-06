@@ -7,6 +7,5 @@ Already done:
 - Simple mathematical calculator following BIDMAS rules
 
 To do next:
-- List operations, more complex operations
+- List operations, more complex operations/functions
 - Pretty terminal UI?
-- Functions
