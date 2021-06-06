@@ -8,4 +8,5 @@ Already done:
 
 To do next:
 - List operations, more complex operations
+- Pretty terminal UI?
 
